@@ -1,9 +1,4 @@
 /*
- * CSE 351 Lab 5 (Dynamic Storage Allocator)
- *
- * Name(s):  Ziao Yin
- * NetID(s): ziyin
- *
  * NOTES:
  *  - Explicit allocator with an explicit free-list
  *  - Free-list uses a single, doubly-linked list with LIFO insertion policy,
